@@ -1,7 +1,4 @@
 package io.raynelz.task3;
-
-import jakarta.persistence.Basic;
-
 interface Device {
     boolean isEnabled();
 
