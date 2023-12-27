@@ -1,4 +1,4 @@
-package io.raynelz.task2;
+package org.example.task2;
 
 class RoundHole {
     private int radius;

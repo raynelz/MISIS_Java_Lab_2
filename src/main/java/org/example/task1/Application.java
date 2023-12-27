@@ -1,11 +1,10 @@
-package io.raynelz.task1;
+package org.example.task1;
 
 import java.util.HashMap;
 import java.util.Map;
 
 interface YouTubeApiClient {
     Map<String, Video> popularVideos();
-
     Video getVideo(String videoId);
 }
 

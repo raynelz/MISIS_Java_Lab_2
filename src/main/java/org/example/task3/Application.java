@@ -1,4 +1,4 @@
-package io.raynelz.task3;
+package org.example.task3;
 interface Device {
     boolean isEnabled();
 
